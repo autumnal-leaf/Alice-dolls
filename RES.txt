@@ -1,0 +1,14 @@
+AUTO WIRE-Third Edition
+Dev by autumnal_leaf
+////////Precision parameter////////
+Angular closure error:13" 
+Closure error of conductor:
+fx = -0.0102m   fy = -0.0366m
+fs = 0.0380m   k = 0.000078
+////////The result of the calculation of the wire points////////
+No/Azimuth_Angle(D M S)/Coord(x y)
+0/180 46 41/1218.3380 1486.0920
+1/178 49 52/1079.8987 1484.2223
+2/179 49 43/981.5242 1486.2369
+3/179 1 31/895.4454 1486.5008
+4/85 57 7/728.4840 1489.3540

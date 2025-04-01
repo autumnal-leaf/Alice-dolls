@@ -1,0 +1,16 @@
+Number of Segment:5
+Angle calculation model( L or R ):L
+//////////////////////////////////////////////////
+Initial edge with two point: x, y | A >> B | #
+Point A:1228.816,1717.120
+Point B:1218.338,1486.092
+End edge with tow point: x, y | C >> D| #
+Point C:728.484,1489.354
+Point D:744.989,1722.376
+//////////////////////////////////////////////////
+Traverse Point: No/Obervation_Angle(D M S)/Distance_From_Last #
+0/93 22 30/138.455
+1/178 03 14/98.397
+2/180 59 54/86.081
+3/179 11 50/166.989
+4/86 55 28/0.000
